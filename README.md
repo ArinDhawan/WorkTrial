@@ -1,6 +1,6 @@
-# WorkTrial - Arin Dhawan 
+# Trade Slippage Arin Dhawan 
 
-This is my submission for the BlockHouse work trial. The repo contains Task1 (feature engineering) and Task2 (Slippage Calculations). I have also added the given and new papers within the Slippage papers. I have also included formulas from the new papers. 
+The repo contains Task1 (feature engineering) and Task2 (Slippage Calculations). I have also added the given and new papers within the Slippage papers. I have also included formulas from the new papers. 
 
 Links for the new papers:
 
